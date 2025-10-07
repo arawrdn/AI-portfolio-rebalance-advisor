@@ -1,0 +1,4 @@
+token,amount,target_pct
+bitcoin,0.5,50
+ethereum,2,30
+solana,10,20
